@@ -33,8 +33,8 @@ Distance to each detected object is calculated and relayed to the user.
 Clone the repository: https://github.com/kunal-10-02/Object_Detection_project
 Install required dependencies: pip install -r requirements.txt
 Run the application: python run_me.py
-📂 File Structure :
 
+📂 File Structure :
 Detector.py: Main application script.
 run_me.py: Run whole application
 modelURL/: Pre-trained SSDMobileNet and RCNN models.
@@ -46,7 +46,6 @@ README.md: Documentation.
 🤝 Contributing : We welcome contributions! Please feel free to open issues or submit pull requests to improve the project.
 
 📫 Contact : For questions or feedback, reach out at
-
 kalpanil22kanbarkar@gmail.com
 padmajapatilk@gmail.com
 kunaldeshinge@gmail.com
